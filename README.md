@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/manugupta01/Learning/_apis/build/status/Manu-bit.hello-world?branchName=master)](https://dev.azure.com/manugupta01/Learning/_build/latest?definitionId=1&branchName=master)
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
